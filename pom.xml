@@ -553,7 +553,7 @@
         </repository>
              
         <repository>
-            <id>nexus-maven-central</id>
+            <id>maven-central</id>
             <url>http://localhost:8081/repository/maven-central/</url>
             <releases>
                 <enabled>true</enabled>
