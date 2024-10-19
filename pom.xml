@@ -551,8 +551,7 @@
             <name>Spring Milestone Repository</name>
             <url>https://repo.spring.io/milestone</url>
         </repository>
-
-        <repositories>
+             
         <repository>
             <id>nexus-maven-central</id>
             <url>http://localhost:8081/repository/maven-central/</url>
@@ -563,7 +562,6 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
-    </repositories>
     </repositories>
          
     <distributionManagement>
